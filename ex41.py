@@ -4,7 +4,7 @@ __author__ = 'zengyue'
 
 from sys import exit
 from random import randint
- 
+
 
 def death():
     quips = ["You died. You kinda suck at this.",
